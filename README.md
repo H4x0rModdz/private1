@@ -10,7 +10,7 @@ Acesse o site: [Google Cloud Console](https://console.cloud.google.com/).
 
 - Clique em "Selecione um Projeto" ou, caso já tenha um, clique no nome do seu projeto.
   
-  ![Selecionar Projeto](IMG-Google-API-1.png)
+  ![Selecionar Projeto](IMG-Google-1.png)
 
 - Clique em "Novo Projeto".
   
